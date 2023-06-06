@@ -1,0 +1,121 @@
+[{
+		"matricula": "9543 HCB",
+		"modelo": "Ford Focus",
+		"user": {
+			"dni": "20496029Q",
+			"mail": "carlosxtv@gmail.com",
+			"password": "musica",
+			"phone": 657718108,
+			"name": "Carlos",
+			"lastName": "Pepitop"
+		}
+	},
+	{
+		"matricula": "1234 ABC",
+		"modelo": "Toyota Corolla",
+		"user": {
+			"dni": "12345678A",
+			"mail": "ejemplo@gmail.com",
+			"password": "contraseña",
+			"phone": 123456789,
+			"name": "Ejemplo",
+			"lastName": "Apellido"
+		}
+	},
+	{
+		"matricula": "5678 XYZ",
+		"modelo": "Honda Civic",
+		"user": {
+			"dni": "98765432B",
+			"mail": "usuario@gmail.com",
+			"password": "123456",
+			"phone": 987654321,
+			"name": "Usuario",
+			"lastName": "Apellido2"
+		}
+	},
+	{
+		"matricula": "4321 DEF",
+		"modelo": "Volkswagen Golf",
+		"user": {
+			"dni": "54321678C",
+			"mail": "test@test.com",
+			"password": "password",
+			"phone": 987654321,
+			"name": "Test",
+			"lastName": "Apellido3"
+		}
+	},
+	{
+		"matricula": "9876 UVW",
+		"modelo": "Renault Megane",
+		"user": {
+			"dni": "87654321D",
+			"mail": "example@example.com",
+			"password": "qwerty",
+			"phone": 123456789,
+			"name": "Example",
+			"lastName": "Apellido4"
+		}
+	},
+	{
+		"matricula": "2468 GHI",
+		"modelo": "Mercedes-Benz C-Class",
+		"user": {
+			"dni": "13579246E",
+			"mail": "user@test.com",
+			"password": "abc123",
+			"phone": 987654321,
+			"name": "User",
+			"lastName": "Apellido5"
+		}
+	},
+	{
+		"matricula": "1357 JKL",
+		"modelo": "BMW 3 Series",
+		"user": {
+			"dni": "86420957F",
+			"mail": "admin@admin.com",
+			"password": "admin123",
+			"phone": 123456789,
+			"name": "Admin",
+			"lastName": "Apellido6"
+		}
+	},
+	{
+		"matricula": "7890 MNO",
+		"modelo": "Audi A4",
+		"user": {
+			"dni": "24681357G",
+			"mail": "info@example.com",
+			"password": "pass123",
+			"phone": 987654321,
+			"name": "Info",
+			"lastName": "Apellido7"
+		}
+	},
+	{
+		"matricula": "6543 PQR",
+		"modelo": "Mazda 3",
+		"user": {
+			"dni": "75315926H",
+			"mail": "user@example.com",
+			"password": "password123",
+			"phone": 123456789,
+			"name": "User2",
+			"lastName": "Apellido8"
+		}
+	},
+	{
+		"matricula": "2109 STU",
+		"modelo": "Hyundai Elantra",
+		"user": {
+			"dni": "36925814I",
+			"mail": "example@user.com",
+			"password": "userpass",
+			"phone": 987654321,
+			"name": "Example2",
+			"lastName": "Apellido9"
+		}
+	}
+]
