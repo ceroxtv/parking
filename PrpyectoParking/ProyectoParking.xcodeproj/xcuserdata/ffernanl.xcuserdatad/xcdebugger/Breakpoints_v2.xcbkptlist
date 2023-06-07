@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "086D592D-E3CA-44A0-A8A6-1C7DE80E2479"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88FD0B9E-F4E3-4B75-BA7A-D697D63E8E3B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PrpyectoParking/Controllers/UserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "makeToast()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "88FD0B9E-F4E3-4B75-BA7A-D697D63E8E3B - db844abd33efa834"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoParking.UserViewController.dataScanner(_: VisionKit.DataScannerViewController, didTapOn: VisionKit.RecognizedItem) -&gt; ()"
+                  moduleName = "ProyectoParking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ffernanl/charlie/parking-master/PrpyectoParking/PrpyectoParking/Controllers/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "2804">
+               </Location>
+               <Location
+                  uuid = "88FD0B9E-F4E3-4B75-BA7A-D697D63E8E3B - 856950756d2121cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProyectoParking.UserViewController.makeToast() -&gt; ()"
+                  moduleName = "ProyectoParking"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ffernanl/charlie/parking-master/PrpyectoParking/PrpyectoParking/Controllers/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "920">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
